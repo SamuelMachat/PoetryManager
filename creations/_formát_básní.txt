@@ -1,0 +1,6 @@
+<Nadpis>
+<Autor>
+
+<tělo textu>
+
+<<poznámka>>
